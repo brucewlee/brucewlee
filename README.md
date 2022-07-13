@@ -1,1 +1,1 @@
-Luck Is The Residue Of Design
+Luck is the residue of design

@@ -1,1 +1,1 @@
-Luck is the residue of design
+Cobalt only

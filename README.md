@@ -4,9 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/bruce-w-lee)
 
-Email <brucelws(at)seas.upenn.edu>
-
-[Website](https://brucewlee.github.io/)
+Twitter -> Not yet
 
 ## Ongoing Project : LFTK
 

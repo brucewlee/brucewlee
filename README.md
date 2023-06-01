@@ -1,10 +1,10 @@
 # $\displaystyle \sum_{Time = o}^{\infty} f(Time) = Visual Studio + Cobalt2$ ;
 
-## Social
+## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/bruce-w-lee)
 
-Twitter -> Not yet
+[Twitter](https://twitter.com/BruceWLee1)
 
 ## Ongoing Project : LFTK
 

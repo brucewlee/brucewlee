@@ -6,6 +6,8 @@
 
 [Twitter](https://twitter.com/BruceWLee1)
 
+[Discord Channel for LFTK](https://discord.gg/ZteJsmusHV)
+
 ## Ongoing Project : LFTK
 
 ![LFTK](images/lftk.png)

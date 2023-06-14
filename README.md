@@ -1,4 +1,4 @@
-# $\displaystyle \sum_{Time = o}^{\infty} f(Time) = Visual Studio + Cobalt2$ ;
+# $\displaystyle \sum_{Time = today}^{\infty} f(Time) = Visual Studio + Cobalt2$ ;
 
 ## Connect with me
 

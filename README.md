@@ -1,4 +1,4 @@
-# $\displaystyle \sum_{Time = today}^{\infty} f(Time) = Visual Studio + Cobalt2$ ;
+# Making Magic with AI ;
 
 ## Ongoing Project : LFTK
 

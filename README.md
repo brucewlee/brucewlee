@@ -1,4 +1,4 @@
-# LLM, linguistic analysis, and most other NLP stuff
+# NLP
 
 ## Ongoing Project : LFTK
 

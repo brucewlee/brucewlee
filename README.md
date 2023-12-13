@@ -1,4 +1,4 @@
-# NLP
+# Artificial Consciousness
 
 ## Ongoing Project : LFTK
 

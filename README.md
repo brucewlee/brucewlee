@@ -1,4 +1,4 @@
-# Artificial Consciousness
+# Conscious
 
 ## Ongoing Project : LFTK
 

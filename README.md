@@ -1,5 +1,5 @@
 # Conscious
 
-## Ongoing Project : LFTK
+## Project : LFTK
 
 ![LFTK](images/lftk.png)

@@ -6,4 +6,4 @@ Stay Tuned (Feb.2024)
 
 ## Project : LFTK
 
-![LFTK](images/lftk.png)
+![LFTK](images/lftk-bg.png)

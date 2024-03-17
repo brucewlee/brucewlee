@@ -1,12 +1,5 @@
-# What's on My Mind
+Student at the University of Pennsylvania. 
 
-## Project : Nutcracker
+I'm interested in language, intelligence, and measuring things.
 
-
-https://github.com/brucewlee/brucewlee/assets/54278520/65005d25-99fe-4a5f-b103-9ab3f6a56704
-
-
-
-## Project : LFTK
-
-![LFTK](images/lftk-bg.png)
+See my open-source projects below, and papers here [Scholar](https://scholar.google.com/citations?user=a9HZkjMAAAAJ&hl=en)

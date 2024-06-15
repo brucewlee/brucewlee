@@ -2,7 +2,7 @@ Hi! I'm **Bruce**.
 
 - I'm a student at the University of Pennsylvania. 
 
-- I'm fascinated by the realm of intelligence, and as a byproduct, I'm also interested in understanding how language functions, encompassing both linguistic and visual systems.
+- I like doing independent research!
 
 You can **find me** at:
 

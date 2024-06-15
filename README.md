@@ -1,4 +1,4 @@
-I'm **Bruce W. Lee**.
+Hi! I'm **Bruce**.
 
 - I'm a student at the University of Pennsylvania. 
 

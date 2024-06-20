@@ -2,7 +2,7 @@ Hi! I'm **Bruce**.
 
 - I'm a student at the University of Pennsylvania. 
 
-- I like doing independent research!
+- I do independent research for fun.
 
 You can **find me** at:
 

@@ -9,7 +9,7 @@ You can **find me** at:
 - Personal Website: [Link](https://brucewlee.github.io).
 - Google Scholar: [Link](https://scholar.google.com/citations?user=a9HZkjMAAAAJ&hl=en).
 - LinkedIn: [Link](https://www.linkedin.com/in/bruce-w-lee/).
-- X: [Link](https://twitter.com/BruceWLee1).
+- X: [Link](https://twitter.com/BruceWLee2).
 
 
 I use GitHub to maintain some open-source projects, often tied to my research.

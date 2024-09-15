@@ -13,6 +13,9 @@ You can **find me** at:
 
 
 I use GitHub to maintain some open-source projects, often tied to my research.
+- Programming Refusal with Conditional Activation Steering - Preprint
+  - [Paper](https://arxiv.org/abs/2409.05907)
+  - [Github](https://github.com/IBM/activation-steering)
 - Language Models Don't Learn the Physical Manifestation of Language - ACL 2024
   - [Paper](https://arxiv.org/abs/2402.11349)
   - [Github](https://github.com/brucewlee/h-test)

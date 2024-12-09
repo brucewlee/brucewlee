@@ -2,17 +2,8 @@ Hi! I'm **Bruce**.
 
 - I'm a student at the University of Pennsylvania. 
 
-- I sometimes do independent research and share codes.
+- I sometimes do research and share codes.
 
-You can **find me** at:
-
-- Personal Website: [Link](https://brucewlee.github.io).
-- Google Scholar: [Link](https://scholar.google.com/citations?user=a9HZkjMAAAAJ&hl=en).
-- LinkedIn: [Link](https://www.linkedin.com/in/bruce-w-lee/).
-- X: [Link](https://twitter.com/BruceWLee2).
-
-
-I use GitHub to maintain some open-source projects, often tied to my research.
 - Programming Refusal with Conditional Activation Steering
   - [Paper](https://arxiv.org/abs/2409.05907)
   - [Github](https://github.com/IBM/activation-steering)

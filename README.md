@@ -1,8 +1,4 @@
-Hi! I'm **Bruce**.
-
-- I'm a student at the University of Pennsylvania. 
-
-- I sometimes do research and share codes.
+Hi! I'm **Bruce**. I'm a student at the University of Pennsylvania. I sometimes do research and share codes.
 
 - Programming Refusal with Conditional Activation Steering
   - [Paper](https://arxiv.org/abs/2409.05907)
